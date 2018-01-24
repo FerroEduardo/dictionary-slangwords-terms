@@ -15,7 +15,7 @@
  - **framework:** É uma abstração que une códigos comuns entre vários projetos de software promovendo uma funcionalidade genérica;
  - **frontend:** É responsável por coletar a entrada do usuário em várias formas e processá-la para adequá-la a uma especificação em que o back-end possa utilizar.
  - **GIT**: Sistema de controle de versão de arquivo; 
- - **GNU:** É um sistema operacional tipo Unix cujo objetivo desde sua concepção é oferecer um sistema operacional completo e totalmente composto por software livre - isto é, que respeita a liberdade dos usuários;
+ - **GNU:** É um sistema operacional tipo Unix cujo objetivo desde sua concepção é oferecer um sistema operacional completo e totalmente composto por software livre - isto é, que respeita a liberdade dos usuários; GNU é um acrônimo que significa (GNU is Not Unix)
  - **GUI:** Graphical User Interface (Interface Gráfica de Usuário), é a interface gráfica de interação entre o usuário e a máquina;
  - **mockup:** Mockups de Interface de Usuário de Software podem variar de layout de tela muito simples desenhados a mão até bitmaps realistas, para interfaces de usuário semi-funcionais desenvolvidas em uma ferramenta de desenvolvimento de software;
  - **query:** Consulta;
