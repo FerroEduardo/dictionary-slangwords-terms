@@ -6,8 +6,6 @@
 
 ## Termos/gírias:
 
- - ad hoc;
- -  lang;
  - major;
  - minor;
  - REST/RESTFUL
