@@ -7,11 +7,17 @@
 ## Termos/gírias:
 
  - ad hoc;
- -  lang;
+ - lang;
  - major;
  - minor;
- - REST/RESTFUL
- 
+ - REST/RESTFUL;
+ - boilerplate;
+ - PWA;
+ - Commitar
+ - PR
+ - Dar merge/Mergear;
+ - CI
+ - CD
 
 ----------
 
