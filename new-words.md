@@ -7,18 +7,7 @@
 # Palavras novas sem definição ainda:
 ## Termos/gírias:
 
- - ad hoc;
- - lang;
- - major;
- - minor;
- - REST/RESTFUL;
- - boilerplate;
- - PWA;
- - Commitar
- - PR
- - Dar merge/Mergear;
- - CI
- - CD
+
 
 ----------
 
