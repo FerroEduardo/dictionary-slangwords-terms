@@ -7,11 +7,8 @@
 # Palavras novas sem definição ainda:
 ## Termos/gírias:
 
-<<<<<<< HEAD
-=======
  - ad hoc;
  - lang;
->>>>>>> upstream/master
  - major;
  - minor;
  - REST/RESTFUL;
